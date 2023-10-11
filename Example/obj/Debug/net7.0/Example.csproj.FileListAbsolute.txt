@@ -1,0 +1,14 @@
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\bin\Debug\net7.0\Example.exe
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\bin\Debug\net7.0\Example.deps.json
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\bin\Debug\net7.0\Example.runtimeconfig.json
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\bin\Debug\net7.0\Example.dll
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\bin\Debug\net7.0\Example.pdb
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\obj\Debug\net7.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\obj\Debug\net7.0\Example.AssemblyInfoInputs.cache
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\obj\Debug\net7.0\Example.AssemblyInfo.cs
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\obj\Debug\net7.0\Example.csproj.CoreCompileInputs.cache
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\obj\Debug\net7.0\Example.dll
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\obj\Debug\net7.0\refint\Example.dll
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\obj\Debug\net7.0\Example.pdb
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\obj\Debug\net7.0\Example.genruntimeconfig.cache
+D:\IT\Coding\7. Знакомство с языками программирования (лекции)\lesson1\HelloConsole\Example\obj\Debug\net7.0\ref\Example.dll
